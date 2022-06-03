@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=790b761111c389bd1f0b492ba019e17067ccbaf674efb4e6&rid=giphy.gif" alt="animated" />
+
 Welcome to Aryeth's github
 </p>
 
