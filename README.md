@@ -14,10 +14,10 @@
 
 ## My most used languages:
 
-<p align=center> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryeth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryeth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Anything else ?
 
 Feel free to send me an [e-mail](mailto:leo.bernard2002@gmail.com)
 
-[^Wanna buy me a beer ?^](https://www.paypal.com/paypalme/AryethUnderscore)
+<sub>[Wanna buy me a beer ?](https://www.paypal.com/paypalme/AryethUnderscore)</sub>
