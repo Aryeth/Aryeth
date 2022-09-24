@@ -17,7 +17,7 @@
 
 ## My most used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryeth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryeth&hide=tex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Anything else ?
 
