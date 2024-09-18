@@ -3,12 +3,12 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=790b761111c389bd1f0b492ba019e17067ccbaf674efb4e6&rid=giphy.gif" alt="animated" />
 </p>
-<p align="center">Welcome to Aryeth's github</p>
+<p align="center">Welcome to my github profile :)</p>
 
 ## About me
 
-* 20, Swiss, he/him
-* Informatics student
+* 22, Swiss, he/him
+* Info student
 * Interested in cybersec
 
 ## Languages and tools I use:
@@ -20,7 +20,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryeth&hide=tex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Anything else ?
-
-Feel free to send me an [e-mail](mailto:leo.bernard2002@gmail.com)
 
 <sub>[Wanna buy me a beer ?](https://www.paypal.com/paypalme/AryethUnderscore)</sub>
