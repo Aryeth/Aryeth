@@ -7,7 +7,7 @@
 
 ## About me
 
-* 22, Swiss, he/him
+* 🇨🇭, he/him
 * Info student
 * Interested in cybersec
 
